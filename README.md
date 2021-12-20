@@ -35,7 +35,7 @@ The folder Brazillian Soccer Player Classifier using Haar cascades structure is 
 4. Open the [website](https://github.com/ThiPauli/Brazilian_Soccer_Player_Classifier/blob/main/Brazillian%20Soccer%20Player%20Classifier%20using%20Haar%20cascades/UI/app.html)
 5. Drag and drop images to make new predictions.
 
-![](Brazillian Soccer Player Classifier using Haar cascades/web_page.PNG)
+![](Brazilian_Soccer_Player_Classifier/Brazillian Soccer Player Classifier using Haar cascades/web_page.PNG)
 
 The seed idea for this project part was taken from codebasics channel from youtube, which I give the credits.
 
