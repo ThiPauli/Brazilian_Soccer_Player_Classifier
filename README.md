@@ -16,6 +16,15 @@
 - The best accuracy was from Logistic Regression model after using Grid Search CV defining the models and hypertune parameters.
 - Created a web server and a website to make new predictions.
 
+Technologies used in this project,
+1. Python
+2. Numpy and OpenCV for data cleaning
+3. Matplotlib & Seaborn for data visualization
+4. Sklearn for model building
+5. Jupyter notebook, visual studio code and pycharm as IDE
+6. Python flask for http server
+7. HTML/CSS/Javascript for UI
+
 The folder Brazillian Soccer Player Classifier using Haar cascades structure is defined as follow:
 * UI : This contains the UI website code
 * server: Python flask server
@@ -40,3 +49,9 @@ The folder Brazillian Soccer Player Classifier using Haar cascades structure is 
 The seed idea for this project part was taken from codebasics channel from youtube, which I give the credits.
 
 ### Project 2
+- Using Tensorflow and Keras to create a Convolutional Neural Network (CNN)
+- Using Keras ImageDataGenerator class which allows to perform image augmentation in order to get a better accuracy.
+- Projected created with the intuit to highlight some differences of performance in image classification when applying deep learning and machine learning algorithms as in project 1.
+
+## Comparison
+
