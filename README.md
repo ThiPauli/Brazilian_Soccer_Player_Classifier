@@ -46,7 +46,7 @@ The folder Brazillian Soccer Player Classifier using Haar cascades structure is 
 
 <img src="Brazillian Soccer Player Classifier using Haar cascades\web_page.PNG" width="1000" />
 
-The seed idea for this project part was taken from codebasics channel from youtube, which I give the credits.
+The seed idea for this project part was taken from ***codebasics*** channel from youtube, which I give the credits.
 
 ### Project 2
 - Using Tensorflow and Keras to create a Convolutional Neural Network (CNN)
