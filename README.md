@@ -54,4 +54,11 @@ The seed idea for this project part was taken from codebasics channel from youtu
 - Projected created with the intuit to highlight some differences of performance in image classification when applying deep learning and machine learning algorithms as in project 1.
 
 ## Comparison
+![](comparison.PNG)
 
+## Conclutions:
+- The same Dataset used for both projects, but in project 1, it discard images which are not frontal. Therefore, it could not recognize it was Gabriel Barbosa in the example 1.
+- Haar cascades tends to be the most effective for frontal images of the face.
+- For images which shows more than one face, using Haar cascades might return faces from people who is not relevant. The solution for this case is to delete those images manually when it happends.
+- CNN predicted wrongly in the example 4 (Marinho). I presume the lack of training data was the issue.
+- Its adivisable to classify using CNN in this case as many images from internet from those soccer players are not frontals.
