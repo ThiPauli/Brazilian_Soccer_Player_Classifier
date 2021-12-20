@@ -22,7 +22,7 @@ The folder Brazillian Soccer Player Classifier using Haar cascades structure is 
 * model: Contains python notebook for model building
 
 ### Setup:
-1. [Download](https://github.com/ThiPauli/Brazilian_Soccer_Player_Classifier/archive/refs/heads/main.zip)) the repository
+1. [Download](https://github.com/ThiPauli/Brazilian_Soccer_Player_Classifier/archive/refs/heads/main.zip) the repository
    
 2. Install some Dependencies (if necessary)
     ```
