@@ -12,7 +12,7 @@
 
 ## Projects:
 ### Project 1
-- Applied Haar cascades for face and eyes detection in order to train our model
+- Applied Haar cascades for face and eyes detection in order to train our model.
 - The best accuracy was from Logistic Regression model after using Grid Search CV defining the models and hypertune parameters.
 - Created a web server and a website to make new predictions.
 
@@ -49,7 +49,7 @@ The folder Brazillian Soccer Player Classifier using Haar cascades structure is 
 The seed idea for this project part was taken from ***codebasics*** channel from youtube, which I give the credits.
 
 ### Project 2
-- Using Tensorflow and Keras to create a Convolutional Neural Network (CNN)
+- Using Tensorflow and Keras to create a Convolutional Neural Network (CNN).
 - Using Keras ImageDataGenerator class which allows to perform image augmentation in order to get a better accuracy.
 - Projected created with the intuit to highlight some differences of performance in image classification when applying deep learning and machine learning algorithms as in project 1.
 
